@@ -7,4 +7,8 @@
     <color name="colorHour">#FFFFFF</color>
     <color name="colorMinute">#ACACB0</color>
     <color name="colorSecond">#DE0735</color>
+
+    <color name="lineRed">#FF0000</color>
+    <color name="lineYellow">#FFFF00</color>
+    <color name="lineGreen">#00FF00</color>
 </resources>
