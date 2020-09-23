@@ -7,9 +7,21 @@
     android:gravity="center"
     tools:context=".MainActivity">
 
-    <com.jqk.customview.watch.Watch
+    <Button
+        android:id="@+id/auxiliaryLine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="车道线"></Button>
+
+    <Button
         android:id="@+id/watch"
-        android:layout_width="350dp"
-        android:layout_height="350dp"
-        android:layout_centerInParent="true" />
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="表"></Button>
+
+    <Button
+        android:id="@+id/drap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="拖拽"></Button>
 </LinearLayout>

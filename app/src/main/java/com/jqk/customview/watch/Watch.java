@@ -258,7 +258,6 @@ public class Watch extends View {
         this.hour = hour;
         this.minute = minute;
         this.second = second;
-        invalidate();
     }
 
     public void getTime() {
